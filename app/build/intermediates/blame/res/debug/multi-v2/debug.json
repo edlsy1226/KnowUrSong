@@ -1,0 +1,101 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/values-zh_values-zh.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "5,3,8,4,10,7,9,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "158,56,249,105,333,212,287,376",
+                        "endColumns": "52,48,37,52,42,36,45,38",
+                        "endOffsets": "206,100,282,153,371,244,328,410"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,157,195,248,291,328,374",
+                        "endColumns": "52,48,37,52,42,36,45,38",
+                        "endOffsets": "103,152,190,243,286,323,369,408"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "588,693",
+                        "endLines": "15,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "688,760"
+                    }
+                },
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,6,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,4,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,211,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,46,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,253,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,271,313,366,414,454,498,545",
+                        "endColumns": "52,48,41,52,47,39,43,46,42",
+                        "endOffsets": "217,266,308,361,409,449,493,540,583"
+                    }
+                },
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

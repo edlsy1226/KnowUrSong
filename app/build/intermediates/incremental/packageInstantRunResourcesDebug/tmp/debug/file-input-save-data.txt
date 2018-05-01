@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Apr 30 08:49:14 CDT 2018
+1.base=/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=acrcloud/afp.df
+0.set=ASSET
+0.base=/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/assets/debug
+1.path=acrcloud/afp.iv

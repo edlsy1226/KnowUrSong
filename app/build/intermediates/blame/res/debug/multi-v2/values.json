@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "588,693",
+                        "endLines": "15,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "688,760"
+                    }
+                },
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,6,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,4,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,211,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,46,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,253,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,271,313,366,414,454,498,545",
+                        "endColumns": "52,48,41,52,47,39,43,46,42",
+                        "endOffsets": "217,266,308,361,409,449,493,540,583"
+                    }
+                },
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

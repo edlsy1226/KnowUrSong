@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0194E1"
+    android:orientation="vertical"
+    >
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="40dp"
+                android:text="@string/title"
+                android:textColor="#ffffff"
+                android:textSize="40sp" />
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="257dp"
+                android:layout_height="265dp"
+                android:layout_below="@+id/Title"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/whats_up" />
+
+            <Button
+                android:id="@+id/start"
+                android:layout_width="110dp"
+                android:layout_height="0.3in"
+                android:layout_below="@+id/logo"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/start" />
+
+            <Button
+                android:id="@+id/stop"
+                android:layout_width="120dp"
+                android:layout_height="0.3in"
+                android:layout_below="@+id/logo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="@string/stop" />
+
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="110dp"
+                android:layout_height="0.3in"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/logo"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/cancel" />
+
+            <TextView
+                android:id="@+id/volume"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:shadowColor="#333333"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:textSize="25sp"
+                android:layout_below="@id/start"
+                android:layout_marginTop="30dp"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#222222" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="13dp"
+        android:textColor="#333333"
+        android:text="By Edward Li and Ryan Xu" />
+
+</RelativeLayout>

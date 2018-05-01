@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/values-zh/strings.xml",
+                    "from": {
+                        "startLines": "5,3,8,4,10,7,9,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "158,56,249,105,333,212,287,376",
+                        "endColumns": "52,48,37,52,42,36,45,38",
+                        "endOffsets": "206,100,282,153,371,244,328,410"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,157,195,248,291,328,374",
+                        "endColumns": "52,48,37,52,42,36,45,38",
+                        "endOffsets": "103,152,190,243,286,323,369,408"
+                    }
+                }
+            ]
+        }
+    ]
+}

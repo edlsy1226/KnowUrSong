@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_whats_up.jpg.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-xxhdpi/whats_up.jpg"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_mic.png.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-hdpi/mic.png"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_know_ur_song.png.flat",
+        "source": "/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/src/main/res/drawable-xxhdpi/know_ur_song.png"
+    }
+]
