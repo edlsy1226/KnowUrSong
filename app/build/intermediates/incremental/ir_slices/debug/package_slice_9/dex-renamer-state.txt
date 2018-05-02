@@ -1,4 +1,4 @@
-#Mon Apr 30 11:45:38 CDT 2018
+#Tue May 01 19:07:02 CDT 2018
 base.0=/Users/edward/Documents/Developer/Andriod/ACRCloudSDKDemo/app/build/intermediates/transforms/dexMerger/debug/24
 path.0=classes.dex
 renamed.0=classes.dex

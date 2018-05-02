@@ -238,6 +238,7 @@ public class MainActivity extends Activity implements IACRCloudListener {
 		    		}
 		    	}
 		    	tres = tres;
+				Toast.makeText(this, "Congrats! U Know Ur Song!", Toast.LENGTH_SHORT).show();
 		    }else{
 		    	tres = "Can't find Ur song :-(";
 		    }
@@ -245,7 +246,6 @@ public class MainActivity extends Activity implements IACRCloudListener {
 			tres = result;
 		    e.printStackTrace();
 		}
-		Toast.makeText(this, "Congrats! U Know Ur Song!", Toast.LENGTH_SHORT).show();
 		mResult.setText(tres);	
 	}
 
